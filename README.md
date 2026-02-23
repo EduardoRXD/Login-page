@@ -1,4 +1,6 @@
 Login Page Project
+
+Made with React, Prisma, MongoDb, JS, html, css...
 ==================
 
 Requirements:
