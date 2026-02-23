@@ -3,7 +3,7 @@ Login Page Project
 
 Requirements:
 - Git
-- Node.js (LTS recommended)
+- Node.js
 
 ----------------------------------------
 
